@@ -42,7 +42,7 @@ a{
 
 
 .main{
-    width: 100%;
+    width: 1920px;
     height: 1043px;
     background-image: url(img/main.png);
     color: white;
@@ -249,4 +249,5 @@ margin-top: 20px;
     align-items: center;
 
 }
+
 
